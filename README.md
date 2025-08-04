@@ -49,4 +49,5 @@ elif user == "percentage":
         print(result,"%")
     else :
          print("Kindly give a non-zero denominator")
-
+else :
+    print("Kindly give the operations as specified"
